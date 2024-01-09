@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Geminibot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E90CA61924C74DD89BD5C832DD4DE14E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3BB2380045654B3C9D194B8BE739AC02 }}
